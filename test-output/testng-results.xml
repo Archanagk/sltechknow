@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78569" started-at="2019-12-26T13:18:55Z" finished-at="2019-12-26T13:20:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78569" started-at="2019-12-26T13:18:55Z" finished-at="2019-12-26T13:20:14Z">
+      <class name="com.sltechknow.testscript.SearchFlipkartTest">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:com.sltechknow.testscript.SearchFlipkartTest@39aeed2f]" name="openApp" is-config="true" duration-ms="19258" started-at="2019-12-26T05:18:55Z" finished-at="2019-12-26T05:19:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="flipkartSearch()[pri:0, instance:com.sltechknow.testscript.SearchFlipkartTest@39aeed2f]" name="flipkartSearch" duration-ms="9804" started-at="2019-12-26T05:19:15Z" finished-at="2019-12-26T05:19:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartSearch -->
+        <test-method status="PASS" signature="closeAppn()[pri:0, instance:com.sltechknow.testscript.SearchFlipkartTest@39aeed2f]" name="closeAppn" is-config="true" duration-ms="11328" started-at="2019-12-26T05:19:24Z" finished-at="2019-12-26T05:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAppn -->
+      </class> <!-- com.sltechknow.testscript.SearchFlipkartTest -->
+      <class name="com.sltechknow.testscript.SearchTest">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:com.sltechknow.testscript.SearchTest@724af044]" name="openApp" is-config="true" duration-ms="11104" started-at="2019-12-26T05:19:36Z" finished-at="2019-12-26T05:19:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="serchForPhn()[pri:0, instance:com.sltechknow.testscript.SearchTest@724af044]" name="serchForPhn" duration-ms="17413" started-at="2019-12-26T05:19:47Z" finished-at="2019-12-26T05:20:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serchForPhn -->
+        <test-method status="PASS" signature="closeAppn()[pri:0, instance:com.sltechknow.testscript.SearchTest@724af044]" name="closeAppn" is-config="true" duration-ms="9624" started-at="2019-12-26T05:20:04Z" finished-at="2019-12-26T05:20:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAppn -->
+      </class> <!-- com.sltechknow.testscript.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
