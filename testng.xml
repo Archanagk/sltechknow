@@ -3,8 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.sltechknow.testscript.SearchFlipkartTest"/>
-      <class name="com.sltechknow.testscript.SearchTest"/>
+      <class name="com.sltechknow.testscript.SearchTripTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

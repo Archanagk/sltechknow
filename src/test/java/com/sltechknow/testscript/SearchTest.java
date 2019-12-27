@@ -17,9 +17,9 @@ public class SearchTest extends Generic_class{
 		
 		   driver.get("https://www.amazon.in");
 		   driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
-	HomePage h1=new HomePage(driver);
-	h1.searchEle();
-	String str = h1.getPrice();
+	      HomePage h1=new HomePage(driver);
+	      h1.searchEle();
+	      String str = h1.getPrice();
 	
 }
 }

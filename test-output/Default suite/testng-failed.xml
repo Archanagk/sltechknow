@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.sltechknow.testscript.SearchFlipkartTest">
+      <class name="com.sltechknow.testscript.SearchTripTest">
         <methods>
-          <include name="flipkartSearch"/>
+          <include name="searchForHotel"/>
           <include name="openApp"/>
           <include name="closeAppn"/>
         </methods>
-      </class> <!-- com.sltechknow.testscript.SearchFlipkartTest -->
+      </class> <!-- com.sltechknow.testscript.SearchTripTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
